@@ -1,0 +1,15 @@
+{
+  "repo": "flux2-flux-2-api-cn",
+  "model": "flux-2-pro",
+  "display": "FLUX.2 Pro",
+  "variant": "model-cn",
+  "snapshot": "2026-09-24",
+  "unit": "usd_per_image",
+  "tiers": {
+    "1MP": 0.024,
+    "2MP": 0.036,
+    "3MP": 0.048,
+    "4MP": 0.06
+  },
+  "source": "https://apimart.ai/en/pricing"
+}
