@@ -2,7 +2,7 @@
 
 > 按量计费，$1 起充，OpenAI 兼容接口。 **1MP $0.024; 2MP $0.036; 3MP $0.048**
 
-**[模型页](https://apimart.ai/model) · [实时价格](https://apimart.ai/pricing) · [获取 API Key](https://apimart.ai/keys)**
+**[模型页](https://go.apimart.ai/k-ae3cba) · [实时价格](https://go.apimart.ai/k-25d574) · [获取 API Key](https://go.apimart.ai/k-69a6dd)**
 
 ## 价格（快照 2026-09-24）
 
